@@ -1,0 +1,18 @@
+#container svg, #container canvas {
+    position: absolute;
+    top: 0;
+}
+svg {
+    background-color: black;
+}
+svg text {
+    font-family: proxima-nova;
+    font-size: 12px;
+    fill: #666;
+}
+.countries {
+    fill: #333333;
+}
+.airports {
+    fill: #666666;
+}
