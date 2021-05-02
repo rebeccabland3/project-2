@@ -1,7 +1,21 @@
+function handleHeatmap() {
+  console.log('clicked: ', document.getElementById('container'));
+  TweenMax.to(document.getElementById('container'), 1, {opacity:1});
+}
+function handleBarchart() {
+  console.log('clicked: ', document.getElementById('barchart'));
+  TweenMax.to(document.getElementById('barchart'), 1, {opacity:1});
+}
+
+
 const width = 960;
 const height = 600;
 
 div = d3.select('#container');
+
+
+
+
 mapLayer = div.append('svg').attr('id', 'map').attr('width', width).attr('height', height);
 canvasLayer = div.append('canvas').attr('id', 'heatmap').attr('width', width).attr('height', height);
 
