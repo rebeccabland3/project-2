@@ -2,6 +2,7 @@
 
 
 **Topic:** Plant and Fungi Global Biodiversity 
+
 **Goal:** Build a dashboard to display the location of different fungi and plants around the world.
  
 **Data Sources:** 
