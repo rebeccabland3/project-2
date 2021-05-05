@@ -13,6 +13,23 @@ Fungal dataset: https://springernature.figshare.com/collections/GlobalFungi_Glob
 
 **Data Collection Process:** 
 
+We collected our plant data using the Trefle API and extracted species count by location. 
+
+**Visualizations:**
+
+Plants:
+
+Fungi:
+
+Heat map displaying count of fungi by location
+
+
+
+
+
+
+
+
 Map with biodiversity (count of species) per region
 Region size (level 1-4) could be selected by user if we would like to provide that ability
 This would use distribution table ONLY
