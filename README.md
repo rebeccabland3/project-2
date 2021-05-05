@@ -5,6 +5,8 @@
 
 **Goal:** Build a dashboard to display the location of different fungi and plants around the world.
 
+**Data Sources:**
+
 Map with biodiversity (count of species) per region
 Region size (level 1-4) could be selected by user if we would like to provide that ability
 This would use distribution table ONLY
