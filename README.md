@@ -14,11 +14,15 @@ Fungal dataset: https://springernature.figshare.com/collections/GlobalFungi_Glob
 
 **Data Collection Process:** 
 
-We collected our plant data using the Trefle API and extracted species count by location. Due to the large amount of data, we had to download several individual JSONs and load them into SQLite. Our fungi data was exracted using a CSV.
+We collected our plant data using the Trefle API and extracted species count by region. Due to the large amount of data, we had to download several individual JSONs and load them into SQLite. Our fungi data was exracted using a CSV.
+
+(flow chart)
 
 **Visualizations:**
 
 Plants:
+
+Map with biodiversity (count of species) per region with L1 - L4
 
 Fungi:
 
