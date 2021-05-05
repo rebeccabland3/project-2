@@ -5,7 +5,9 @@
 
 **Goal:** Build a dashboard to display the location of different fungi and plants around the world.
 
-**Data Sources:**
+**Data Sources:** 
+Plant API: https://docs.trefle.io/docs/examples/snippets
+Fungal dataset: https://springernature.figshare.com/collections/GlobalFungi_Global_database_of_fungal_records_from_high-throughput-sequencing_metabarcoding_studies/4915392
 
 Map with biodiversity (count of species) per region
 Region size (level 1-4) could be selected by user if we would like to provide that ability
