@@ -7,6 +7,7 @@
 
 **Data Sources:** 
 Plant API: https://docs.trefle.io/docs/examples/snippets
+
 Fungal dataset: https://springernature.figshare.com/collections/GlobalFungi_Global_database_of_fungal_records_from_high-throughput-sequencing_metabarcoding_studies/4915392
 
 Map with biodiversity (count of species) per region
