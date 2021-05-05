@@ -4,15 +4,14 @@
 **Topic:** Plant and Fungi Global Biodiversity 
 **Goal:** Build a dashboard to display the location of different fungi and plants around the world.
  
- https://en.wikipedia.org/wiki/Taxonomic_rank#/media/File:Taxonomic_Rank_Graph.svg
- 
 **Data Sources:** 
 
 Plant API: https://docs.trefle.io/docs/examples/snippets
 
 Fungal dataset: https://springernature.figshare.com/collections/GlobalFungi_Global_database_of_fungal_records_from_high-throughput-sequencing_metabarcoding_studies/4915392
 
-Map with biodiversity (count of species) per region
+
+**Data Collection Process** Map with biodiversity (count of species) per region
 Region size (level 1-4) could be selected by user if we would like to provide that ability
 This would use distribution table ONLY
 User selects the plant family or genus to see (pepper, rose, etc.) - buttons, dropdown, other interactive option
