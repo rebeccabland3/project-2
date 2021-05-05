@@ -1,9 +1,9 @@
 # species-project
 
 
-Topic: Plant and Fungi Global Biodiversity 
+**Topic:** Plant and Fungi Global Biodiversity 
 
-Goal: Build a dashboard to display the location of different fungi and plants around the world.
+**Goal:** Build a dashboard to display the location of different fungi and plants around the world.
 
 Map with biodiversity (count of species) per region
 Region size (level 1-4) could be selected by user if we would like to provide that ability
