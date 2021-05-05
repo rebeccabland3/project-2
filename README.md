@@ -3,7 +3,9 @@
 
 **Topic:** Plant and Fungi Global Biodiversity 
 **Goal:** Build a dashboard to display the location of different fungi and plants around the world.
-
+ 
+ https://en.wikipedia.org/wiki/Taxonomic_rank#/media/File:Taxonomic_Rank_Graph.svg
+ 
 **Data Sources:** 
 
 Plant API: https://docs.trefle.io/docs/examples/snippets
