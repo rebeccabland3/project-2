@@ -29,6 +29,10 @@ Fungi:
 
 Heat map displaying count of fungi by location
 
+**Key Insights**
+
+**Next Steps**
+
 
 
 
