@@ -19,6 +19,7 @@ Could display plant family summary
 Count of plants in family
 Count of families in genus (if we opted for genus to be selected)
 Issue is genus names are less well known that family names to the end user
+
 Display one to three images of the plants in the family
 List plants (scientific name) - a ton of data though
 Could link to listing of ALL plants in family with option to look at photos that are available (many don’t have links but some do)
