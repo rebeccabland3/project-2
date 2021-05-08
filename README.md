@@ -12,7 +12,7 @@
 
 Plant API: https://docs.trefle.io/docs/examples/snippets
 
-Fungal dataset: https://springernature.figshare.com/collections/GlobalFungi_Global_database_of_fungal_records_from_high-throughput-sequencing_metabarcoding_studies/4915392
+Fungi dataset: https://springernature.figshare.com/collections/GlobalFungi_Global_database_of_fungal_records_from_high-throughput-sequencing_metabarcoding_studies/4915392
 
 
 **Data Collection Process:** 
@@ -28,7 +28,7 @@ Map with biodiversity (count of species) per region with L1 - L3. The levels ind
 
 Fungi:
 
-Heat map displaying count of fungi by location. The heat map is driven by count, so the areas of the globe that are more densely populated with fungi appear darker than those with a lesser amount. This allows the viewer to understand the areas that are most densely populated.
+Heat map displaying count of fungi by location. The heat map is driven by count, so the areas of the globe that are more densely populated with fungi appear darker than those with a lesser amount. This allows the viewer to understand the areas that are most heavily populated.
 
 Sample Heat Map:
 
