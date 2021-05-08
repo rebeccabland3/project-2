@@ -22,11 +22,11 @@ We collected our plant data using the Trefle API and extracted species count by 
 
 Plants:
 
-Map with biodiversity (count of species) per region with L1 - L4
+Map with biodiversity (count of species) per region with L1 - L3. The levels indicate what type of view the map provides. Level 1 displays a more hollistic map of the world, while level 3 displays a state view. The map is driven by count, so ultimately the colors indicate the varying levels of plant diversity across the world. The multiple views not only allow viewers to see plant diversity across the world, but also in areas that are native to them.
 
 Fungi:
 
-Heat map displaying count of fungi by location
+Heat map displaying count of fungi by location. The heat map is driven by count, so the areas of the globe that are more densely populated with fungi appear darker than those with a lesser amount. This allows the viewer to understand the areas that are most densely populated.
 
 
 
