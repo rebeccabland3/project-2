@@ -5,6 +5,8 @@
 
 
 **Goal:** Build a dashboard to display the location of different plants and fungi around the world.
+
+![](Images/Taxonomic_Rank_Graph.svg)
  
 **Data Sources:** 
 
