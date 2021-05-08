@@ -14,7 +14,7 @@ Plant API: https://docs.trefle.io/docs/examples/snippets
 
 Fungi dataset: https://springernature.figshare.com/collections/GlobalFungi_Global_database_of_fungal_records_from_high-throughput-sequencing_metabarcoding_studies/4915392
 
-Tools: Python (ELT), SQLite, HTML, CSS, Java Script, Choropleth Library
+Tools: Python (ELT), SQLite, HTML, CSS, Flask, JavaScript, Choropleth (Leaflet and MapBox)
 
 
 # **Data Collection Process:** 
