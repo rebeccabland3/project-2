@@ -1,7 +1,7 @@
 # species-project
 
 
-**Topic:** Plant and Fungi Global Biodiversity 
+# **Topic:** Plant and Fungi Global Biodiversity 
 
 
 **Goal:** Build a dashboard to display the location of different plants and fungi around the world.
