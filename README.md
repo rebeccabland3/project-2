@@ -30,9 +30,6 @@ Fungi:
 
 Heat map displaying count of fungi by location. The heat map is driven by count, so the areas of the globe that are more densely populated with fungi appear darker than those with a lesser amount. This allows the viewer to understand the areas that are most heavily populated.
 
-Sample Heat Map:
-
-![](Images/World-Heat-Map.png)
 
 
 
