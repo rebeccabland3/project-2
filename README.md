@@ -17,7 +17,7 @@ Fungi dataset: https://springernature.figshare.com/collections/GlobalFungi_Globa
 
 **Data Collection Process:** 
 
-We collected our plant data using the Trefle API and extracted species count by region. Due to the large amount of data, we had to download several individual JSONs and load them into SQLite. Our fungi data was exracted using a CSV.
+We collected our plant data using the Trefle API and extracted species count by region (lat and lon). Due to the large amount of data, we had to download several individual JSONs and load them into SQLite. Our fungi data was exracted using a CSV.
 
 
 **Visualizations:**
@@ -29,6 +29,11 @@ Map with biodiversity (count of species) per region with L1 - L3. The levels ind
 Fungi:
 
 Heat map displaying count of fungi by location. The heat map is driven by count, so the areas of the globe that are more densely populated with fungi appear darker than those with a lesser amount. This allows the viewer to understand the areas that are most heavily populated.
+
+
+**Next Steps:**
+
+We could enhance our dashboard by also adding animal data. This would involve the same process as extracting the plant data and we would have to load a large number of JSON files into SQLite and utilize the lat and lon data to map by animal count per region.
 
 
 
