@@ -37,7 +37,7 @@ Heat map displaying count of fungi observations by location. The heat map is dri
 
 We could enhance our dashboard by also adding animal data. This would involve the same process as extracting the plant data and we would have to load a large number of JSON files into SQLite and utilize the lat and lon data to map by animal count per region. Another enhancement would be to drill down into the plants map further and show pictures of plant species native to each continent.
 
-Additionally, we would like to build out our dashboard to provide a sumamry of some of the plants in each region with images of the plants.
+Additionally, we would like to build out our dashboard to provide a summary of some of the plants in each region with images of the plants.
 
 
 
