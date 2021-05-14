@@ -3,6 +3,8 @@
 
 # **Topic:** Plant and Fungi Global Biodiversity 
 
+**Heroku Deployment**: https://rebeccabland-plant-species-app.herokuapp.com/
+(@hunter it doesn't work because SQLite was not an option in Heroku Resources)
 
 **Goal:** Build a dashboard to display the location of different plants and fungi around the world.
 
